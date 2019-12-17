@@ -17,7 +17,7 @@ Wan Ahmad Aiman
 [System architecture]  
 It's a simple web app with a database and an image storage.
 
-(./Crowdsourcing.PNG)
+![](./Crowdsourcing.png)
 
 
 ---
