@@ -4,8 +4,8 @@
 ---
 
 ## Team Member
-Ahmad Hafidz 
-Syahmirullah 
+Ahmad Hafidz  
+Syahmirullah  
 Wan Ahmad Aiman 
 
 ---
@@ -17,8 +17,7 @@ Wan Ahmad Aiman
 [System architecture]  
 It's a simple web app with a database and an image storage.
 
-![architecture failed to load](./Crowdsourcing.png)
-
+![architecture failed to load](./Crowdsourcing.jpg)
 
 ---
 
